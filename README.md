@@ -1,5 +1,5 @@
- # Uthm-Car-Wash-System
+ # Uthm-rental-Wash-System
 
-A simple Java GUI Car Washing System made for 
+A simple Java GUI Car rental System made for 
 Universiti Tun Hussein Onn Malaysia (UTHM)
 
